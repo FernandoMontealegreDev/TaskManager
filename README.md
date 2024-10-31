@@ -20,6 +20,7 @@ A full-stack task management application built with NestJS, Next.js, MySQL, and 
   - [Technologies Used](#technologies-used)
     - [Backend](#backend)
     - [Frontend](#frontend)
+    - [Postman Collection](#postman-collection)
   - [Technical Explanation](#technical-explanation)
   - [Agradecimiento y Disculpa](#agradecimiento-y-disculpa)
 
@@ -273,11 +274,14 @@ DELETE /tasks/:id   - Delete a task
 - Lucide Icons
 
 ### Postman Collection
+
 For testing the API endpoints, you can access the Postman collection at the following link:
 
-[API Testing Collection on Postman]([<URL_DEL_ENLACE_POSTMAN>](https://gold-eclipse-446342.postman.co/workspace/Team-Workspace~8031e8a6-be35-4113-8558-e0452451b7e6/collection/31105449-760a66f3-8a0b-4850-af60-76b434bd60c2?action=share&creator=31105449))
+[API Testing Collection on Postman](https://gold-eclipse-446342.postman.co/workspace/Team-Workspace~8031e8a6-be35-4113-8558-e0452451b7e6/collection/31105449-760a66f3-8a0b-4850-af60-76b434bd60c2?action=share&creator=31105449)
 
 This collection includes all necessary requests to test each endpoint, complete with sample payloads and authentication headers when required.
+
+> **Note:** After logging in, replace the placeholder token in the `Authorization` header with the actual token received from the login response. This will allow you to authenticate and access protected endpoints during testing.
 
 ## Technical Explanation
 
