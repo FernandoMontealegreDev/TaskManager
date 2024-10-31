@@ -116,7 +116,7 @@ This shows a representation of the overall architecture of the application, high
 
    ```bash
    git clone [REPOSITORY_URL]
-   cd task-management/backend
+   cd TaskManager/backend
    ```
 
 2. Install dependencies:
