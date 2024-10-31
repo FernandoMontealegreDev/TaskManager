@@ -177,7 +177,7 @@ npm install @nestjs/mapped-types
 3. Create a `.env.local` file:
 
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:3000
+   NEXT_PUBLIC_API_URL=http://localhost:8080
    ```
 
 4. Install UI dependencies:
