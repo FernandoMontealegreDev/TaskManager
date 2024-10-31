@@ -214,7 +214,7 @@ npm install @nestjs/mapped-types
 The application will be available at:
 
 - Frontend: http://localhost:3000
-- Backend API: http://localhost:8000/
+- Backend API: http://localhost:8080/
 
 ## API Endpoints
 
