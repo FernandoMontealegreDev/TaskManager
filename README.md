@@ -272,6 +272,13 @@ DELETE /tasks/:id   - Delete a task
 - React Hook Form
 - Lucide Icons
 
+### Postman Collection
+For testing the API endpoints, you can access the Postman collection at the following link:
+
+[API Testing Collection on Postman]([<URL_DEL_ENLACE_POSTMAN>](https://gold-eclipse-446342.postman.co/workspace/Team-Workspace~8031e8a6-be35-4113-8558-e0452451b7e6/collection/31105449-760a66f3-8a0b-4850-af60-76b434bd60c2?action=share&creator=31105449))
+
+This collection includes all necessary requests to test each endpoint, complete with sample payloads and authentication headers when required.
+
 ## Technical Explanation
 
 In developing the task management application, several key decisions were made to maximize functionality, security, and efficiency:
