@@ -296,11 +296,3 @@ In developing the task management application, several key decisions were made t
 4. **Validation on Both Sides**: We implemented data validation on both the frontend (using controlled forms) and the backend (using DTOs and Class Validator). This ensures that only valid data is processed and stored, reducing the chance of errors and improving the user experience.
 
 5. **MySQL and TypeORM**: We chose MySQL for data storage due to its reliability and support for complex queries. TypeORM was used in the backend to interact with the database, allowing for easy and efficient definition of entities and relationships.
-
-## Agradecimiento y Disculpa
-
-Antes que nada, quiero expresar mi agradecimiento por el tiempo brindado para completar y enviar esta prueba técnica. Realicé un esfuerzo considerable para cumplir con los requerimientos, y había logrado finalizar la implementación incluso antes del plazo previsto.
-
-Sin embargo, al intentar aplicar una metodología de trabajo más estructurada con Git Flow para organizar mejor el proyecto, tuve algunos conflictos inesperados en el manejo de ramas, lo que resultó en una serie de problemas que me llevaron a tener que subir el proyecto nuevamente. Esto causó que, en los commits iniciales, se viera el frontend terminado, mientras que el backend se encontraba vacío.
-
-Una vez identificado el problema, dediqué tiempo adicional para reconstruir el backend desde cero, asegurándome de que funcionara correctamente con el frontend que ya estaba terminado. Reconozco que este proceso retrasó la entrega y lamento profundamente cualquier inconveniente que esto haya podido causar. Aprecio su comprensión ante la situación y, nuevamente, agradezco la oportunidad para completar y enviar la prueba en su totalidad.
