@@ -36,7 +36,7 @@ Make sure you have the following installed:
 ## Project Structure
 
 ```
-TaskManager/
+task-manager/
 ├── backend/                 # NestJS Project
 │   ├── src/
 │   │   ├── auth/            # Authentication Module
